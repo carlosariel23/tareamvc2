@@ -9,7 +9,7 @@ using codefirts.Models;
 
 namespace codefirts.Controllers
 {
-    public class EmpleadoesController : Controller
+    public class EmpleadoesController : Controller 
     {
         private readonly ApplicationDbContext _context;
 
