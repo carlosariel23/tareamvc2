@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tareadatabasefirst", "tareamvc\tareadatabasefirst.csproj", "{11E72038-943E-45E7-A6B3-3921A60AD2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codefirts", "codefirts\codefirts.csproj", "{80DC24ED-5DF5-4D82-BD17-D4B0188C4255}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{11E72038-943E-45E7-A6B3-3921A60AD2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11E72038-943E-45E7-A6B3-3921A60AD2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11E72038-943E-45E7-A6B3-3921A60AD2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DC24ED-5DF5-4D82-BD17-D4B0188C4255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DC24ED-5DF5-4D82-BD17-D4B0188C4255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DC24ED-5DF5-4D82-BD17-D4B0188C4255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DC24ED-5DF5-4D82-BD17-D4B0188C4255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
