@@ -9,7 +9,7 @@ using codefirts.Models;
 #nullable disable
 
 namespace codefirts.Migrations
-{
+{ 
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
     {
